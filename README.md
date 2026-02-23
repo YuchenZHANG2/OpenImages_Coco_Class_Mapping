@@ -11,9 +11,9 @@ After completing the mapping:
 
 1. **All 80 COCO classes** were successfully matched to one or more OpenImages classes.
 
-2. **62 OpenImages classes** are marked as **IGNORE** (should be excluded from evaluation)
+2. **65 OpenImages classes** are marked as **IGNORE** (should be excluded from evaluation)
 
-3. **418 OpenImages classes** are marked as **OUT** (can be treated as OOD categories)
+3. **415 OpenImages classes** are marked as **OUT** (can be treated as OOD categories)
 
 
 
