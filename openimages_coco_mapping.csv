@@ -535,7 +535,7 @@ tick,OUT,
 tie,IN,tie
 tiger,OUT,
 tin can,OUT,
-tire,OUT,
+tire,IGNORE,
 toaster,IN,toaster
 toilet,IN,toilet
 toilet paper,OUT,
@@ -566,7 +566,7 @@ unicycle,OUT,
 van,OUT,
 vase,IN,vase
 vegetable,OUT,
-vehicle,OUT,
+vehicle,IGNORE,
 vehicle registration plate,IGNORE,
 violin,OUT,
 volleyball,OUT,
@@ -600,4 +600,5 @@ worm,OUT,
 wrench,OUT,
 zebra,IN,zebra
 zucchini,OUT,
+
 
