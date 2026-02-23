@@ -13,7 +13,7 @@ After completing the mapping:
 
 2. **65 OpenImages classes** are marked as **IGNORE** (should be excluded from evaluation)
 
-3. **415 OpenImages classes** are marked as **OUT** (can be treated as OOD categories)
+3. **414 OpenImages classes** are marked as **OUT** (can be treated as OOD categories)
 
 
 
