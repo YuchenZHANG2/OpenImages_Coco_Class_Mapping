@@ -13,7 +13,7 @@ apple,IN,apple
 armadillo,OUT,
 artichoke,OUT,
 asparagus,OUT,
-auto part,OUT,
+auto part,IGNORE,
 axe,OUT,
 backpack,IN,backpack
 bagel,OUT,
@@ -600,3 +600,4 @@ worm,OUT,
 wrench,OUT,
 zebra,IN,zebra
 zucchini,OUT,
+
