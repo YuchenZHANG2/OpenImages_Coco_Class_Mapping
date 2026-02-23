@@ -563,7 +563,7 @@ turkey,OUT,
 turtle,OUT,
 umbrella,IN,umbrella
 unicycle,OUT,
-van,OUT,
+van,IN,truck
 vase,IN,vase
 vegetable,OUT,
 vehicle,IGNORE,
@@ -600,5 +600,6 @@ worm,OUT,
 wrench,OUT,
 zebra,IN,zebra
 zucchini,OUT,
+
 
 
